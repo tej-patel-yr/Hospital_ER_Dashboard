@@ -97,6 +97,6 @@ This Power BI dashboard presents an in-depth analysis of **hospital emergency ro
 If you have questions, feedback, or would like to connect:
 
 **Tej Patel YR**  
-📧 tejpatelyr@gmail.com 
+📧 tejpatelyr.ire@gmail.com 
 🌐 http://www.linkedin.com/in/tej-patel-yr
 
