@@ -5,6 +5,7 @@
 This Power BI dashboard presents an in-depth analysis of **hospital emergency room (ER)** activity across a **19-month period (April 2023 – October 2024)**. It highlights different KPI's such as patient demographics, wait times, satisfaction levels, departmental referrals, and admission trends. This project aims to provide healthcare professionals and administrators with insights to optimize staffing, improve service delivery, and enhance patient care.
 
 ---
+![Monthly_view](https://github.com/user-attachments/assets/43beaddb-9915-4764-9d1c-140dfac86a76)
 
 ## 🔍 Dashboard Features
 
